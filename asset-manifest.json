@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/palki.github.io/static/css/main.8222f150.chunk.css",
+    "main.js": "/palki.github.io/static/js/main.ededd379.chunk.js",
+    "main.js.map": "/palki.github.io/static/js/main.ededd379.chunk.js.map",
+    "runtime-main.js": "/palki.github.io/static/js/runtime-main.6fa80142.js",
+    "runtime-main.js.map": "/palki.github.io/static/js/runtime-main.6fa80142.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/palki.github.io/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.40c45795.chunk.js": "/palki.github.io/static/js/2.40c45795.chunk.js",
+    "static/js/2.40c45795.chunk.js.map": "/palki.github.io/static/js/2.40c45795.chunk.js.map",
+    "index.html": "/palki.github.io/index.html",
+    "precache-manifest.e136b4c0959c7befb1972942166c8adb.js": "/palki.github.io/precache-manifest.e136b4c0959c7befb1972942166c8adb.js",
+    "service-worker.js": "/palki.github.io/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/palki.github.io/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.8222f150.chunk.css.map": "/palki.github.io/static/css/main.8222f150.chunk.css.map",
+    "static/js/2.40c45795.chunk.js.LICENSE.txt": "/palki.github.io/static/js/2.40c45795.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/palki.github.io/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa80142.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.40c45795.chunk.js",
+    "static/css/main.8222f150.chunk.css",
+    "static/js/main.ededd379.chunk.js"
+  ]
+}
