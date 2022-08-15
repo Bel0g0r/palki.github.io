@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/palki.github.io/static/css/main.8222f150.chunk.css",
-    "main.js": "/palki.github.io/static/js/main.ededd379.chunk.js",
-    "main.js.map": "/palki.github.io/static/js/main.ededd379.chunk.js.map",
+    "main.js": "/palki.github.io/static/js/main.a783eb4e.chunk.js",
+    "main.js.map": "/palki.github.io/static/js/main.a783eb4e.chunk.js.map",
     "runtime-main.js": "/palki.github.io/static/js/runtime-main.6fa80142.js",
     "runtime-main.js.map": "/palki.github.io/static/js/runtime-main.6fa80142.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/palki.github.io/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.40c45795.chunk.js": "/palki.github.io/static/js/2.40c45795.chunk.js",
     "static/js/2.40c45795.chunk.js.map": "/palki.github.io/static/js/2.40c45795.chunk.js.map",
     "index.html": "/palki.github.io/index.html",
-    "precache-manifest.e136b4c0959c7befb1972942166c8adb.js": "/palki.github.io/precache-manifest.e136b4c0959c7befb1972942166c8adb.js",
+    "precache-manifest.a3bb2adb910187b2de3141ea9886caee.js": "/palki.github.io/precache-manifest.a3bb2adb910187b2de3141ea9886caee.js",
     "service-worker.js": "/palki.github.io/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/palki.github.io/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.8222f150.chunk.css.map": "/palki.github.io/static/css/main.8222f150.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.40c45795.chunk.js",
     "static/css/main.8222f150.chunk.css",
-    "static/js/main.ededd379.chunk.js"
+    "static/js/main.a783eb4e.chunk.js"
   ]
 }
